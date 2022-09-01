@@ -1,0 +1,3 @@
+Read Robot - 10  - 110
+Right Hend - 100 - 0 
+Lift Hand  - 0   - 100

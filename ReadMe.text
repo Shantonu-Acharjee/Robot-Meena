@@ -1,0 +1,16 @@
+pip install pipwin-0.5.1
+pipwin install pyaudio-0.2.11
+pip install pyttsx3-2.90
+pip install SpeechRecognition-3.8.1
+pip install wikipedia-1.4.0
+pip install pywhatkit
+pip install pyjokes-0.6.0
+pip install openweather-0.11
+pip install playsound==1.2.2
+pip install gTTS
+pip install pyFirmata
+
+
+
+
+
